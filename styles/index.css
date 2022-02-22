@@ -842,15 +842,15 @@ h2 {
     transition: transform 0.5s ease-in-out;
   }
   .affair-toggle:checked + #affair-1 {
-    height: 330px;
+    height: 350px;
     transition: height 1s ease-in-out;
   }
   .affair-toggle:checked + #affair-2 {
-    height: 320px;
+    height: 340px;
     transition: height 1s ease-in-out;
   }
   .affair-toggle:checked + #affair-3 {
-    height: 620px;
+    height: 650px;
     transition: height 1s ease-in-out;
   }
 }
